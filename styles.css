@@ -36,10 +36,9 @@ body{
         background-color: #ff7373;
     }
 button {
-    align-self:center;
+    align-self: center;
     max-width: 200px;
     margin: 10px;
-    max-width: auto;
     background-color: limegreen;
     color: white;
     border: 2px solid #ccc;
